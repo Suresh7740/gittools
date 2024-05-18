@@ -1,0 +1,9 @@
+{
+	"name": "dataddf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a59871a6-6cf6-4168-b4f1-f3db6deb50c7",
+		"tenantId": "ea403901-c706-4ea5-8a46-999f6b96d225"
+	}
+}
